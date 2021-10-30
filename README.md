@@ -1,2 +1,2 @@
 # Python-Examples
-Example python code
+Various examples demenstrating ability to use Python
